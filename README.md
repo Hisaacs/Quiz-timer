@@ -45,7 +45,7 @@ Screenshots:
 
 ![06](https://user-images.githubusercontent.com/19741669/100997442-3b867980-3595-11eb-9d2b-825713bc0299.PNG)
 
-![07](https://user-images.githubusercontent.com/19741669/100997457-3de8d380-3595-11eb-8e86-2eda10e63653.PNG)
+![07](https://user-images.githubusercontent.com/19741669/101231872-ff642d80-36e8-11eb-81e2-d945a20ebda7.png)
 
 ![08](https://user-images.githubusercontent.com/19741669/100997462-404b2d80-3595-11eb-9e03-7608eaae5766.PNG)
 
