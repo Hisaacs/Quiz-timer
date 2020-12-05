@@ -14,12 +14,17 @@ Requirements:
 9.	After the game has ended, the user can save their name and score to a scoreboard. (Local Storage)
 
 Instructions:
+```
 Navigation options:  "View High scores" and the "Time" value which has been set at 0
 To start the user arrives at the 'Home Page' and is presented with a button "Start Quiz" 
 •	When the user clicks on the "Start Quiz" button. The user is presented with a series of questions. The timer gets initialized with a value and immediately begins the countdown.
 •	The score is calculated by the time remaining. Answering as quickly and correctly will results in a higher score. 
 •	Answering incorrectly will results in a time-penalty (for example, 20 seconds will be subtracted from the time remaining).
 •	When your time runs out and all questions have been answered, the user is presented with a final score and is prompted to enter their name. Their final score and their name, then get stored in local Storage.
+
+
+Preview: Video link
+https://www.dropbox.com/s/7rpel6si5s56axi/Music%20Trivia%20Quiz%20%E2%80%94%20Mozilla%20Firefox%202020-12-05%2008-46-31.mp4?dl=0
 
 Screenshots:
 
@@ -42,6 +47,3 @@ Screenshots:
 ![09](https://user-images.githubusercontent.com/19741669/100997473-42ad8780-3595-11eb-8f17-9dc8bf86b07d.PNG)
 
 ![10](https://user-images.githubusercontent.com/19741669/100997483-45a87800-3595-11eb-8d05-cb62e868e8d4.PNG)
-
-Preview: Video link
-https://www.dropbox.com/s/7rpel6si5s56axi/Music%20Trivia%20Quiz%20%E2%80%94%20Mozilla%20Firefox%202020-12-05%2008-46-31.mp4?dl=0
