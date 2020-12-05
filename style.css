@@ -59,10 +59,6 @@ li::before {
     direction: rtl;
 }
 
-#scoresTitle {
-    padding-left: 16px;
-}
-
 title {
     font-size: 5px;
 }
