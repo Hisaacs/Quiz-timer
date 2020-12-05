@@ -17,10 +17,15 @@ Instructions:
 ```
 Navigation options:  "View High scores" and the "Time" value which has been set at 0
 To start the user arrives at the 'Home Page' and is presented with a button "Start Quiz" 
-•	When the user clicks on the "Start Quiz" button. The user is presented with a series of questions. The timer gets initialized with a value and immediately begins the countdown.
-•	The score is calculated by the time remaining. Answering as quickly and correctly will results in a higher score. 
-•	Answering incorrectly will results in a time-penalty (for example, 20 seconds will be subtracted from the time remaining).
-•	When your time runs out and all questions have been answered, the user is presented with a final score and is prompted to enter their name. Their final score and their name, then get stored in local Storage.
+•	When the user clicks on the "Start Quiz" button. The user is presented with a series of questions. 
+• The timer gets initialized with a value and immediately begins the countdown.
+•	The score is calculated by the time remaining. 
+• Answering as quickly and correctly will results in a higher score. 
+•	Answering incorrectly will results in a time-penalty 
+  for example, 20 seconds will be subtracted from the time remaining.
+•	When your time runs out and all questions have been answered, the user is presented 
+  with a final score and is prompted to enter their name. 
+• Their final score and their name, then get stored in local Storage.
 ```
 
 Preview: Video link
