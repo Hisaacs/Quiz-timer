@@ -27,6 +27,9 @@ To start the user arrives at the 'Home Page' and is presented with a button "Sta
   with a final score and is prompted to enter their name. 
 • Their final score and their name, then get stored in local Storage.
 ```
+Deployment link:https://hisaacs.github.io/Quiz-timer/
+
+Github link: https://github.com/Hisaacs/Quiz-timer/
 
 Preview: Video link
 https://www.dropbox.com/s/7rpel6si5s56axi/Music%20Trivia%20Quiz%20%E2%80%94%20Mozilla%20Firefox%202020-12-05%2008-46-31.mp4?dl=0
